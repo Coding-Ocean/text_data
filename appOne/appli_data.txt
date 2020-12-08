@@ -1,8 +1,7 @@
 float clearR 128
 float clearG 128
 float clearB 128
-float axisMaxX 1.6
-int numCorners 6
+float axisMaxX 1.2
 float strokeW 4
 float strokeR 255
 float strokeG 255
@@ -18,3 +17,4 @@ float texSize 30
 string tex1 äpêî:
 string tex2 DÉLÅ[Ç≈äpêîup
 string tex3 AÉLÅ[Ç≈äpêîdown
+string imgFilename assets/unchi.png

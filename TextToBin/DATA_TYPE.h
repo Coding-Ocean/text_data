@@ -1,8 +1,7 @@
 #pragma once
 #include<string>
-template<typename T>
-class DATA_TYPE
-{
+template<class T>
+class DATA_TYPE{
     T Data;
     std::string Name;
 public:
