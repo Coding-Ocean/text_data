@@ -1,7 +1,7 @@
 float clearR 128
 float clearG 128
 float clearB 128
-float axisMaxX 1.2
+float axisMaxX 1.1
 float strokeW 4
 float strokeR 255
 float strokeG 255
